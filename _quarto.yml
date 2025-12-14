@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Dawson Packer - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/Dawson2025/dawson-packer-portfolio
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Dawson Packer 2025©"
     right: 
-      - icon: linkedin
-        href: Your_LinkedIn_URL
+      - icon: github
+        href: https://github.com/Dawson2025
+      - icon: envelope
+        href: mailto:pac20026@byui.edu
 
   navbar:
     background: primary
@@ -145,6 +147,5 @@ format:
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
 
 

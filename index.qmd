@@ -1,10 +1,11 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "Data Science Portfolio (DS 250)"
 ---
 
-# Title 1 Header
-## Title 2 Header
+This site hosts my data science coursework and projects (built with Quarto and published via GitHub Pages).
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Quick Links
+
+- Resume: `resume.qmd`
+- GitHub: <https://github.com/Dawson2025>
